@@ -53,7 +53,7 @@ if page == "GPT-3.5 Chatbot":
             st.write("야 장난하냐 API키 내놓으라고.")
     
 # Page 2: DALL-E Image Generator
-elif page == "그림 그려주는 귀여운 고양이 달이":
+elif page == "DALL-E Image Generator":
     st.title("귀여운 고양이 달이의 그림판")
     st.write("안뇽뇽, 달이양 그림이 그리고 싶으면 API키와 프롬프트를 달라냥!")
     
