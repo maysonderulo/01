@@ -1,7 +1,7 @@
 import streamlit as st 
 import openai
 
-pip install openai
+
 
 st.title("GPT-3.5 Turbo Chatbot")
 st.write("질문을 하고싶으시면 OpenAI API Key를 입력해주세요.")
