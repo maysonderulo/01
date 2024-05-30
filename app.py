@@ -1,3 +1,5 @@
 import streamlit as st 
 
-st.write("Hello world")
+st.chat_input
+
+
